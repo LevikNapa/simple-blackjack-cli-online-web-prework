@@ -47,7 +47,7 @@ def hit?(int)
 
   answer = get_user_input
     if answer == "s"
-     puts answer
+      answer
       
     elsif get_user_input == "h"
       deal_card 
