@@ -59,7 +59,7 @@ def hit?(int)
   end
   display_card_total(value)
   
-  
+end
   
 end
   # code invalid_command here
